@@ -1,4 +1,4 @@
-# manuadminmod_codx_getscreenshot
+# manuadminmod-tempban-day
 
 Tested with ManuAdminMod v0.11.5 beta.
 
@@ -9,5 +9,7 @@ Tested with ManuAdminMod v0.11.5 beta.
 ```
 $this->players[$guid]->tempBanDay('my reason', '7');
 ```
+
+Afaik you are also able to use like minutes, weeks, months. Just call the cod4x tempban command on the server for more information.
 
 ## No support. Im just uploading a few useful scripts/snippets currently. Files could be from 2015.
